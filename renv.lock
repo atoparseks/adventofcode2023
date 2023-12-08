@@ -530,6 +530,16 @@
       ],
       "Hash": "0984ce8da8da9ead8643c5cbbb60f83e"
     },
+    "numbers": {
+      "Package": "numbers",
+      "Version": "0.8-5",
+      "Source": "Repository",
+      "Repository": "RSPM",
+      "Requirements": [
+        "R"
+      ],
+      "Hash": "444385b56d92d4a269ba65d443beb250"
+    },
     "openssl": {
       "Package": "openssl",
       "Version": "2.1.1",
